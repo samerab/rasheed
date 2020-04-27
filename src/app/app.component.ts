@@ -21,7 +21,7 @@ export class AppComponent implements OnInit {
       photo: 'https://www.wallpaperup.com/uploads/wallpapers/2014/05/04/349162/8d661276bec81ad58ad5140bf91aad04.jpg'
     },
     { 
-      name: 'Jasem', 
+      name: 'Jasem Ahmad', 
       phone: '888888', 
       photo: 'https://www.wallpaperup.com/uploads/wallpapers/2014/05/04/349162/8d661276bec81ad58ad5140bf91aad04.jpg'
     },
